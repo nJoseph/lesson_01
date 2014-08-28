@@ -665,5 +665,5 @@ To summarize, you must complete the following tasks for full credit:
 .. _GitHub: https://github.com/
 .. _GitHub Profile: https://github.com/settings/profile
 .. _GitHub E-Mail Settings: https://github.com/settings/emails
-.. _assignment repository: https://github.com/cheuschober/is210_2014_fall_02_lesson_01
+.. _assignment repository: https://github.com/is210-2014-fall-02/lesson_01
 .. _reStructuredText: http://docutils.sourceforge.net/rst.html
